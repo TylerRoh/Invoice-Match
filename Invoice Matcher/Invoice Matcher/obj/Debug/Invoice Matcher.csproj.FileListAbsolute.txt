@@ -1,0 +1,15 @@
+C:\Users\trohweder\Projects\C#\Personal\Invoice Matcher\Invoice Matcher\bin\Debug\Invoice Matcher.exe.config
+C:\Users\trohweder\Projects\C#\Personal\Invoice Matcher\Invoice Matcher\bin\Debug\Invoice Matcher.exe
+C:\Users\trohweder\Projects\C#\Personal\Invoice Matcher\Invoice Matcher\bin\Debug\Invoice Matcher.pdb
+C:\Users\trohweder\Projects\C#\Personal\Invoice Matcher\Invoice Matcher\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\trohweder\Projects\C#\Personal\Invoice Matcher\Invoice Matcher\bin\Debug\Google.Protobuf.dll
+C:\Users\trohweder\Projects\C#\Personal\Invoice Matcher\Invoice Matcher\bin\Debug\MySql.Data.dll
+C:\Users\trohweder\Projects\C#\Personal\Invoice Matcher\Invoice Matcher\bin\Debug\Renci.SshNet.dll
+C:\Users\trohweder\Projects\C#\Personal\Invoice Matcher\Invoice Matcher\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\trohweder\Projects\C#\Personal\Invoice Matcher\Invoice Matcher\bin\Debug\Google.Protobuf.xml
+C:\Users\trohweder\Projects\C#\Personal\Invoice Matcher\Invoice Matcher\bin\Debug\MySql.Data.xml
+C:\Users\trohweder\Projects\C#\Personal\Invoice Matcher\Invoice Matcher\bin\Debug\Renci.SshNet.xml
+C:\Users\trohweder\Projects\C#\Personal\Invoice Matcher\Invoice Matcher\obj\Debug\Invoice Matcher.csprojAssemblyReference.cache
+C:\Users\trohweder\Projects\C#\Personal\Invoice Matcher\Invoice Matcher\obj\Debug\Invoice Matcher.csproj.CopyComplete
+C:\Users\trohweder\Projects\C#\Personal\Invoice Matcher\Invoice Matcher\obj\Debug\Invoice Matcher.exe
+C:\Users\trohweder\Projects\C#\Personal\Invoice Matcher\Invoice Matcher\obj\Debug\Invoice Matcher.pdb
