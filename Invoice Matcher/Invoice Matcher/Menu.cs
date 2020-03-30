@@ -30,7 +30,7 @@ namespace Invoice_Matcher
         public void Invoices()
         {
             Console.Clear();
-            var SqlConn = new MyDbConnect("server=localhost;user=root;database=invoice_match;port=3306;password=root");
+            var SqlConn = new MyDbConnect("server=localhost;user=****;database=invoice_match;port=3306;password=****");
             var dbInteract = new DbInteract(SqlConn);
             var invoices = new Invoices();
             Console.WriteLine("Enter invoiced PO numbers, when the last has been entered press enter again.");
@@ -55,7 +55,7 @@ namespace Invoice_Matcher
         public void PO()
         {
             Console.Clear();
-            var SqlConn = new MyDbConnect("server=localhost;user=root;database=invoice_match;port=3306;password=root");
+            var SqlConn = new MyDbConnect("server=localhost;user=*****;database=invoice_match;port=3306;password=*****");
             var dbInteract = new DbInteract(SqlConn);
             var purchaseOrders = new PurchaseOrders();
             Console.WriteLine("Enter PO numbers, when the last has been entered press enter again.");
